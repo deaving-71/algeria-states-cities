@@ -3316,7 +3316,7 @@ const cities = [
     daira_name_ascii: "El Malabiod",
     daira_name: "الماء الابيض",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3326,7 +3326,7 @@ const cities = [
     daira_name_ascii: "El Aouinet",
     daira_name: "العوينات",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3336,7 +3336,7 @@ const cities = [
     daira_name_ascii: "Negrine",
     daira_name: "نقرين",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3346,7 +3346,7 @@ const cities = [
     daira_name_ascii: "Negrine",
     daira_name: "نقرين",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3356,7 +3356,7 @@ const cities = [
     daira_name_ascii: "Bir Mokadem",
     daira_name: "بئر مقدم",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3366,7 +3366,7 @@ const cities = [
     daira_name_ascii: "Morsott",
     daira_name: "مرسط",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3376,7 +3376,7 @@ const cities = [
     daira_name_ascii: "Oum Ali",
     daira_name: "أم علي",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3386,7 +3386,7 @@ const cities = [
     daira_name_ascii: "Bir Mokadem",
     daira_name: "بئر مقدم",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3396,7 +3396,7 @@ const cities = [
     daira_name_ascii: "El Kouif",
     daira_name: "الكويف",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3406,7 +3406,7 @@ const cities = [
     daira_name_ascii: "El Kouif",
     daira_name: "الكويف",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3416,7 +3416,7 @@ const cities = [
     daira_name_ascii: "Oum Ali",
     daira_name: "أم علي",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3426,7 +3426,7 @@ const cities = [
     daira_name_ascii: "El Aouinet",
     daira_name: "العوينات",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3436,7 +3436,7 @@ const cities = [
     daira_name_ascii: "El Malabiod",
     daira_name: "الماء الابيض",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3446,7 +3446,7 @@ const cities = [
     daira_name_ascii: "Ouenza",
     daira_name: "الونزة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3456,7 +3456,7 @@ const cities = [
     daira_name_ascii: "Ouenza",
     daira_name: "الونزة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3466,7 +3466,7 @@ const cities = [
     daira_name_ascii: "Ouenza",
     daira_name: "الونزة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3476,7 +3476,7 @@ const cities = [
     daira_name_ascii: "El Ogla",
     daira_name: "العقلة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3486,7 +3486,7 @@ const cities = [
     daira_name_ascii: "El Ogla",
     daira_name: "العقلة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3496,7 +3496,7 @@ const cities = [
     daira_name_ascii: "El Ogla",
     daira_name: "العقلة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3506,7 +3506,7 @@ const cities = [
     daira_name_ascii: "El Ogla",
     daira_name: "العقلة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3516,7 +3516,7 @@ const cities = [
     daira_name_ascii: "Morsott",
     daira_name: "مرسط",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3526,7 +3526,7 @@ const cities = [
     daira_name_ascii: "Cheria",
     daira_name: "الشريعة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3536,7 +3536,7 @@ const cities = [
     daira_name_ascii: "Cheria",
     daira_name: "الشريعة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3546,7 +3546,7 @@ const cities = [
     daira_name_ascii: "Bir El Ater",
     daira_name: "بئر العاتر",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3556,7 +3556,7 @@ const cities = [
     daira_name_ascii: "Bir El Ater",
     daira_name: "بئر العاتر",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3566,7 +3566,7 @@ const cities = [
     daira_name_ascii: "Tebessa",
     daira_name: "تبسة",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3576,7 +3576,7 @@ const cities = [
     daira_name_ascii: "Bir Mokadem",
     daira_name: "بئر مقدم",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -3586,7 +3586,7 @@ const cities = [
     daira_name_ascii: "El Kouif",
     daira_name: "الكويف",
     wilaya_code: "12",
-    wilaya_name_ascii: "Tébessa",
+    wilaya_name_ascii: "Tebessa",
     wilaya_name: "تبسة",
   },
   {
@@ -13596,7 +13596,7 @@ const cities = [
     daira_name_ascii: "Khemis",
     daira_name: "خميس",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13606,7 +13606,7 @@ const cities = [
     daira_name_ascii: "Khemis",
     daira_name: "خميس",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13616,7 +13616,7 @@ const cities = [
     daira_name_ascii: "Hammam Righa",
     daira_name: "حمام ريغة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13626,7 +13626,7 @@ const cities = [
     daira_name_ascii: "Hammam Righa",
     daira_name: "حمام ريغة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13636,7 +13636,7 @@ const cities = [
     daira_name_ascii: "Hammam Righa",
     daira_name: "حمام ريغة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13646,7 +13646,7 @@ const cities = [
     daira_name_ascii: "Djelida",
     daira_name: "جليدة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13656,7 +13656,7 @@ const cities = [
     daira_name_ascii: "Boumedfaa",
     daira_name: "بومدفع",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13666,7 +13666,7 @@ const cities = [
     daira_name_ascii: "Djelida",
     daira_name: "جليدة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13676,7 +13676,7 @@ const cities = [
     daira_name_ascii: "El Amra",
     daira_name: "العامرة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13686,7 +13686,7 @@ const cities = [
     daira_name_ascii: "Djelida",
     daira_name: "جليدة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13696,7 +13696,7 @@ const cities = [
     daira_name_ascii: "El Amra",
     daira_name: "العامرة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13706,7 +13706,7 @@ const cities = [
     daira_name_ascii: "El Attaf",
     daira_name: "العطاف",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13716,7 +13716,7 @@ const cities = [
     daira_name_ascii: "El Attaf",
     daira_name: "العطاف",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13726,7 +13726,7 @@ const cities = [
     daira_name_ascii: "El Abadia",
     daira_name: "العبادية",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13736,7 +13736,7 @@ const cities = [
     daira_name_ascii: "El Abadia",
     daira_name: "العبادية",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13746,7 +13746,7 @@ const cities = [
     daira_name_ascii: "El Abadia",
     daira_name: "العبادية",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13756,7 +13756,7 @@ const cities = [
     daira_name_ascii: "Djendel",
     daira_name: "جندل",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13766,7 +13766,7 @@ const cities = [
     daira_name_ascii: "Djendel",
     daira_name: "جندل",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13776,7 +13776,7 @@ const cities = [
     daira_name_ascii: "Miliana",
     daira_name: "مليانة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13786,7 +13786,7 @@ const cities = [
     daira_name_ascii: "Djendel",
     daira_name: "جندل",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13796,7 +13796,7 @@ const cities = [
     daira_name_ascii: "Boumedfaa",
     daira_name: "بومدفع",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13806,7 +13806,7 @@ const cities = [
     daira_name_ascii: "Ain Lechiakh",
     daira_name: "عين الاشياخ",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13816,7 +13816,7 @@ const cities = [
     daira_name_ascii: "Ain Lechiakh",
     daira_name: "عين الاشياخ",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13826,7 +13826,7 @@ const cities = [
     daira_name_ascii: "Ain Lechiakh",
     daira_name: "عين الاشياخ",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13836,7 +13836,7 @@ const cities = [
     daira_name_ascii: "Rouina",
     daira_name: "الروينة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13846,7 +13846,7 @@ const cities = [
     daira_name_ascii: "Rouina",
     daira_name: "الروينة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13856,7 +13856,7 @@ const cities = [
     daira_name_ascii: "Rouina",
     daira_name: "الروينة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13866,7 +13866,7 @@ const cities = [
     daira_name_ascii: "Bordj El Emir Khaled",
     daira_name: "برج الأمير خالد",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13876,7 +13876,7 @@ const cities = [
     daira_name_ascii: "Bordj El Emir Khaled",
     daira_name: "برج الأمير خالد",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13886,7 +13886,7 @@ const cities = [
     daira_name_ascii: "Bordj El Emir Khaled",
     daira_name: "برج الأمير خالد",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13896,7 +13896,7 @@ const cities = [
     daira_name_ascii: "Bathia",
     daira_name: "بطحية",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13906,7 +13906,7 @@ const cities = [
     daira_name_ascii: "Bathia",
     daira_name: "بطحية",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13916,7 +13916,7 @@ const cities = [
     daira_name_ascii: "Bathia",
     daira_name: "بطحية",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13926,7 +13926,7 @@ const cities = [
     daira_name_ascii: "Ain Defla",
     daira_name: "عين الدفلى",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13936,7 +13936,7 @@ const cities = [
     daira_name_ascii: "Miliana",
     daira_name: "مليانة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13946,7 +13946,7 @@ const cities = [
     daira_name_ascii: "El Amra",
     daira_name: "العامرة",
     wilaya_code: "44",
-    wilaya_name_ascii: "Aïn Defla",
+    wilaya_name_ascii: "Ain Defla",
     wilaya_name: "عين الدفلة",
   },
   {
@@ -13956,7 +13956,7 @@ const cities = [
     daira_name_ascii: "Ain Sefra",
     daira_name: "عين الصفراء",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -13966,7 +13966,7 @@ const cities = [
     daira_name_ascii: "Moghrar",
     daira_name: "مغرار",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -13976,7 +13976,7 @@ const cities = [
     daira_name_ascii: "Asla",
     daira_name: "عسلة",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -13986,7 +13986,7 @@ const cities = [
     daira_name_ascii: "Mekmen Ben Amar",
     daira_name: "مكمن بن عمار",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -13996,7 +13996,7 @@ const cities = [
     daira_name_ascii: "Mekmen Ben Amar",
     daira_name: "مكمن بن عمار",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -14006,7 +14006,7 @@ const cities = [
     daira_name_ascii: "Ain Sefra",
     daira_name: "عين الصفراء",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -14016,7 +14016,7 @@ const cities = [
     daira_name_ascii: "Mecheria",
     daira_name: "المشرية",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -14026,7 +14026,7 @@ const cities = [
     daira_name_ascii: "Mecheria",
     daira_name: "المشرية",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -14036,7 +14036,7 @@ const cities = [
     daira_name_ascii: "Mecheria",
     daira_name: "المشرية",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -14046,7 +14046,7 @@ const cities = [
     daira_name_ascii: "Naama",
     daira_name: "النعامة",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -14056,7 +14056,7 @@ const cities = [
     daira_name_ascii: "Moghrar",
     daira_name: "مغرار",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -14066,7 +14066,7 @@ const cities = [
     daira_name_ascii: "Sfissifa",
     daira_name: "سفيسيفة",
     wilaya_code: "45",
-    wilaya_name_ascii: "Naâma",
+    wilaya_name_ascii: "Naama",
     wilaya_name: "النعامة",
   },
   {
@@ -14076,7 +14076,7 @@ const cities = [
     daira_name_ascii: "Ain Larbaa",
     daira_name: "عين الأربعاء",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14086,7 +14086,7 @@ const cities = [
     daira_name_ascii: "Ain Larbaa",
     daira_name: "عين الأربعاء",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14096,7 +14096,7 @@ const cities = [
     daira_name_ascii: "El Maleh",
     daira_name: "المالح",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14106,7 +14106,7 @@ const cities = [
     daira_name_ascii: "El Maleh",
     daira_name: "المالح",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14116,7 +14116,7 @@ const cities = [
     daira_name_ascii: "El Maleh",
     daira_name: "المالح",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14126,7 +14126,7 @@ const cities = [
     daira_name_ascii: "Hammam Bou Hadjar",
     daira_name: "حمام بوحجر",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14136,7 +14136,7 @@ const cities = [
     daira_name_ascii: "El Maleh",
     daira_name: "المالح",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14146,7 +14146,7 @@ const cities = [
     daira_name_ascii: "Ain Larbaa",
     daira_name: "عين الأربعاء",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14156,7 +14156,7 @@ const cities = [
     daira_name_ascii: "El Amria",
     daira_name: "العامرية",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14166,7 +14166,7 @@ const cities = [
     daira_name_ascii: "El Amria",
     daira_name: "العامرية",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14176,7 +14176,7 @@ const cities = [
     daira_name_ascii: "El Amria",
     daira_name: "العامرية",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14186,7 +14186,7 @@ const cities = [
     daira_name_ascii: "Ain Kihel",
     daira_name: "عين الكيحل",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14196,7 +14196,7 @@ const cities = [
     daira_name_ascii: "Ain Kihel",
     daira_name: "عين الكيحل",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14206,7 +14206,7 @@ const cities = [
     daira_name_ascii: "Ain Kihel",
     daira_name: "عين الكيحل",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14216,7 +14216,7 @@ const cities = [
     daira_name_ascii: "Ain Kihel",
     daira_name: "عين الكيحل",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14226,7 +14226,7 @@ const cities = [
     daira_name_ascii: "Beni Saf",
     daira_name: "بني صاف",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14236,7 +14236,7 @@ const cities = [
     daira_name_ascii: "Hammam Bou Hadjar",
     daira_name: "حمام بوحجر",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14246,7 +14246,7 @@ const cities = [
     daira_name_ascii: "Beni Saf",
     daira_name: "بني صاف",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14256,7 +14256,7 @@ const cities = [
     daira_name_ascii: "Beni Saf",
     daira_name: "بني صاف",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14266,7 +14266,7 @@ const cities = [
     daira_name_ascii: "Oulhassa Gheraba",
     daira_name: "ولهاصة الغرابة",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14276,7 +14276,7 @@ const cities = [
     daira_name_ascii: "Oulhassa Gheraba",
     daira_name: "ولهاصة الغرابة",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14286,7 +14286,7 @@ const cities = [
     daira_name_ascii: "Ain Larbaa",
     daira_name: "عين الأربعاء",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14296,7 +14296,7 @@ const cities = [
     daira_name_ascii: "El Amria",
     daira_name: "العامرية",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14306,7 +14306,7 @@ const cities = [
     daira_name_ascii: "Hammam Bou Hadjar",
     daira_name: "حمام بوحجر",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14316,7 +14316,7 @@ const cities = [
     daira_name_ascii: "Ain Temouchent",
     daira_name: "عين تموشنت",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14326,7 +14326,7 @@ const cities = [
     daira_name_ascii: "Ain Temouchent",
     daira_name: "عين تموشنت",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14336,7 +14336,7 @@ const cities = [
     daira_name_ascii: "El Amria",
     daira_name: "العامرية",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14346,7 +14346,7 @@ const cities = [
     daira_name_ascii: "Hammam Bou Hadjar",
     daira_name: "حمام بوحجر",
     wilaya_code: "46",
-    wilaya_name_ascii: "Aïn Témouchent",
+    wilaya_name_ascii: "Ain Temouchent",
     wilaya_name: "عين تيموشنت",
   },
   {
@@ -14356,7 +14356,7 @@ const cities = [
     daira_name_ascii: "Dhayet Ben Dhahoua",
     daira_name: "ضاية بن ضحوة",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14366,7 +14366,7 @@ const cities = [
     daira_name_ascii: "Mansourah",
     daira_name: "المنصورة",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14376,7 +14376,7 @@ const cities = [
     daira_name_ascii: "Bounoura",
     daira_name: "بونورة",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14386,7 +14386,7 @@ const cities = [
     daira_name_ascii: "Bounoura",
     daira_name: "بونورة",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14396,7 +14396,7 @@ const cities = [
     daira_name_ascii: "Zelfana",
     daira_name: "زلفانة",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14406,7 +14406,7 @@ const cities = [
     daira_name_ascii: "El Guerrara",
     daira_name: "القرارة",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14416,7 +14416,7 @@ const cities = [
     daira_name_ascii: "Metlili",
     daira_name: "متليلي",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14426,7 +14426,7 @@ const cities = [
     daira_name_ascii: "Metlili",
     daira_name: "متليلي",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14436,7 +14436,7 @@ const cities = [
     daira_name_ascii: "Berriane",
     daira_name: "بريان",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -14446,7 +14446,7 @@ const cities = [
     daira_name_ascii: "Ghardaia",
     daira_name: "غرداية",
     wilaya_code: "47",
-    wilaya_name_ascii: "Ghardaïa",
+    wilaya_name_ascii: "Ghardaia",
     wilaya_name: "غرداية",
   },
   {
@@ -15303,10 +15303,10 @@ const cities = [
     id: 1296,
     commune_name_ascii: "Oum Touyour",
     commune_name: "أم الطيور",
-    daira_name_ascii: "El Meghaier",
+    daira_name_ascii: "El M'Ghair",
     daira_name: "المغير",
     wilaya_code: "57",
-    wilaya_name_ascii: "El Meghaier",
+    wilaya_name_ascii: "El M'Ghair",
     wilaya_name: "المغير",
   },
   {
@@ -15316,7 +15316,7 @@ const cities = [
     daira_name_ascii: "Djamaa",
     daira_name: "جامعة",
     wilaya_code: "57",
-    wilaya_name_ascii: "El Meghaier",
+    wilaya_name_ascii: "El M'Ghair",
     wilaya_name: "المغير",
   },
   {
@@ -15326,7 +15326,7 @@ const cities = [
     daira_name_ascii: "Djamaa",
     daira_name: "جامعة",
     wilaya_code: "57",
-    wilaya_name_ascii: "El Meghaier",
+    wilaya_name_ascii: "El M'Ghair",
     wilaya_name: "المغير",
   },
   {
@@ -15336,7 +15336,7 @@ const cities = [
     daira_name_ascii: "Djamaa",
     daira_name: "جامعة",
     wilaya_code: "57",
-    wilaya_name_ascii: "El Meghaier",
+    wilaya_name_ascii: "El M'Ghair",
     wilaya_name: "المغير",
   },
   {
@@ -15346,37 +15346,37 @@ const cities = [
     daira_name_ascii: "Djamaa",
     daira_name: "جامعة",
     wilaya_code: "57",
-    wilaya_name_ascii: "El Meghaier",
+    wilaya_name_ascii: "El M'Ghair",
     wilaya_name: "المغير",
   },
   {
     id: 1284,
     commune_name_ascii: "El-M'ghaier",
     commune_name: "المغير",
-    daira_name_ascii: "El Meghaier",
+    daira_name_ascii: "El M'Ghair",
     daira_name: "المغير",
     wilaya_code: "57",
-    wilaya_name_ascii: "El Meghaier",
+    wilaya_name_ascii: "El M'Ghair",
     wilaya_name: "المغير",
   },
   {
     id: 1303,
     commune_name_ascii: "Still",
     commune_name: "سطيل",
-    daira_name_ascii: "El Meghaier",
+    daira_name_ascii: "El M'Ghair",
     daira_name: "المغير",
     wilaya_code: "57",
-    wilaya_name_ascii: "El Meghaier",
+    wilaya_name_ascii: "El M'Ghair",
     wilaya_name: "المغير",
   },
   {
     id: 1302,
     commune_name_ascii: "Sidi Khelil",
     commune_name: "سيدي خليل",
-    daira_name_ascii: "El Meghaier",
+    daira_name_ascii: "El M'Ghair",
     daira_name: "المغير",
     wilaya_code: "57",
-    wilaya_name_ascii: "El Meghaier",
+    wilaya_name_ascii: "El M'Ghair",
     wilaya_name: "المغير",
   },
   {
