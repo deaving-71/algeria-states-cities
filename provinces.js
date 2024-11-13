@@ -58,7 +58,7 @@ const provinces = [
   {
     id: "8",
     code: "8",
-    name: "Bechar",
+    name: "Béchar",
     ar_name: "بشار",
     longitude: "31.5977602",
     latitude: "-1.8540446",
@@ -90,7 +90,7 @@ const provinces = [
   {
     id: "12",
     code: "12",
-    name: "Tbessa",
+    name: "Tebessa",
     ar_name: "تبسة",
     longitude: "35.4117259",
     latitude: "8.110545",
@@ -146,7 +146,7 @@ const provinces = [
   {
     id: "19",
     code: "19",
-    name: "Setif",
+    name: "Sétif",
     ar_name: "سطيف",
     longitude: "36.1905173",
     latitude: "5.4202134",
@@ -170,7 +170,7 @@ const provinces = [
   {
     id: "22",
     code: "22",
-    name: "Sidi Bel Abbes",
+    name: "Sidi Bel Abbès",
     ar_name: "سيدي بلعباس",
     longitude: "35.206334",
     latitude: "-0.6301368",
@@ -202,7 +202,7 @@ const provinces = [
   {
     id: "26",
     code: "26",
-    name: "Medea",
+    name: "Médéa",
     ar_name: "المدية",
     longitude: "36.2838408",
     latitude: "2.7728462",
@@ -274,7 +274,7 @@ const provinces = [
   {
     id: "35",
     code: "35",
-    name: "Boumerdes",
+    name: "Boumerdès",
     ar_name: "بومرداس",
     longitude: "36.7564181",
     latitude: "3.4917212",
@@ -386,7 +386,7 @@ const provinces = [
   {
     id: "49",
     code: "49",
-    name: "El M'ghair",
+    name: "El M'Ghair",
     ar_name: "المغير",
     longitude: "33.947222",
     latitude: "5.922222",
@@ -410,7 +410,7 @@ const provinces = [
   {
     id: "52",
     code: "52",
-    name: "Bordj Baji Mokhtar",
+    name: "Bordj Badji Mokhtar",
     ar_name: "برج باجي مختار",
     longitude: "21.327778",
     latitude: "0.955556",
